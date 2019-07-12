@@ -1,4 +1,4 @@
-# Graph-based-Biomedical-text-summarization
+# Graph-based Biomedical text summarization
 ### Documentation
 ### How to use the code to summarize a biomedical document
 * The inputs are in XML format
